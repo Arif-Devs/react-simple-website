@@ -1,0 +1,39 @@
+
+.app{
+    background-color: antiquewhite;
+  }
+  
+  
+  nav {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    background-color:#5f5959; 
+    color:aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  brand{
+    color:aqua
+  }
+  
+  .menu ul{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    padding-right: 2rem;
+  
+  }
+  
+  
+  .main{
+    width: 70%;
+    margin: 0 auto;
+  }
+  
+  .footer{
+    background-color: #666;
+    color: #fff;
+    padding: 2rem 4rem;
+  }
