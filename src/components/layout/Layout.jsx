@@ -24,6 +24,9 @@ function Layout (props) {
                             About
                             </Link>
                         </li>
+                        <li>
+                            <Link to = '/help'>Help</Link>
+                        </li>
                        
                     </ul>
                 </div>
